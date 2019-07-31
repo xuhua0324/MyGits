@@ -15,4 +15,8 @@ public class UserController {
     public String show(){
         return "show";
     }
+
+    public String test(){
+        return "test";
+    }
 }
